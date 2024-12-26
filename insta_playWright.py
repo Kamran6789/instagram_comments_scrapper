@@ -181,7 +181,7 @@ with sync_playwright() as playwright:
     except:
         pass
     short_random_delay()
-    login_user(page, '70_077503','Kami@123')
+    login_user(page, '70000','00000')
     short_random_delay()
     # post_url(page, 'https://www.instagram.com/p/C60TQIIvAGx/')
     short_random_delay()
